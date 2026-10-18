@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Host: https://maxandmum.github.io
+Sitemap: https://maxandmum.github.io/sitemap.xml
